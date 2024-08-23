@@ -11,6 +11,9 @@
 # CLion files
 cmake-build-debug/
 **/cmake-build-debug/
+**/build/
+compile_commands.json
+
 
 # Eclipse Files
 .classpath
